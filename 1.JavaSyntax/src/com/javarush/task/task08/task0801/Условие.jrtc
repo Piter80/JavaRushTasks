@@ -1,6 +1,4 @@
-taskKey="com.javarush.task.task08.task0801"
-
-HashSet из растений
+taskKey="com.javarush.task.task08.task0801"\n\nHashSet из растений
 
 Создать коллекцию HashSet с типом элементов String.
 Добавить в неё 10 строк:
