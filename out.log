@@ -17010,3 +17010,17 @@
 2019-04-29 09:09:47 INFO  ApacheHttpClient.sendEvent(518) - responseCode = 200
 2019-04-29 09:10:47 INFO  ApacheHttpClient.sendEvent(518) - responseCode = 200
 2019-04-29 09:11:47 INFO  ApacheHttpClient.sendEvent(518) - responseCode = 200
+2019-04-29 09:12:08 INFO  ApacheHttpClient.testConnection(193) - responseCode = 200
+2019-04-29 09:12:08 INFO  ApacheHttpClient.testConnection(208) - result = true
+2019-04-29 09:12:47 INFO  ApacheHttpClient.sendEvent(518) - responseCode = 200
+2019-04-29 09:13:47 INFO  ApacheHttpClient.sendEvent(518) - responseCode = 200
+2019-04-29 09:14:47 INFO  ApacheHttpClient.sendEvent(518) - responseCode = 200
+2019-04-29 09:15:47 INFO  ApacheHttpClient.sendEvent(518) - responseCode = 200
+2019-04-29 09:16:47 INFO  ApacheHttpClient.sendEvent(518) - responseCode = 200
+2019-04-29 09:17:47 INFO  ApacheHttpClient.sendEvent(518) - responseCode = 200
+2019-04-29 09:18:47 INFO  ApacheHttpClient.sendEvent(518) - responseCode = 200
+2019-04-29 09:19:47 INFO  ApacheHttpClient.sendEvent(518) - responseCode = 200
+2019-04-29 09:20:47 INFO  ApacheHttpClient.sendEvent(518) - responseCode = 200
+2019-04-29 09:21:14 INFO  ApacheHttpClient.testConnection(193) - responseCode = 200
+2019-04-29 09:21:14 INFO  ApacheHttpClient.testConnection(208) - result = true
+2019-04-29 09:21:47 INFO  ApacheHttpClient.sendEvent(518) - responseCode = 200
