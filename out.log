@@ -17037,3 +17037,15 @@
 2019-04-29 09:28:47 INFO  ApacheHttpClient.sendEvent(518) - responseCode = 200
 2019-04-29 09:29:47 INFO  ApacheHttpClient.sendEvent(518) - responseCode = 200
 2019-04-29 09:30:47 INFO  ApacheHttpClient.sendEvent(518) - responseCode = 200
+2019-04-29 09:30:57 INFO  ApacheHttpClient.testConnection(193) - responseCode = 200
+2019-04-29 09:30:57 INFO  ApacheHttpClient.testConnection(208) - result = true
+2019-04-29 09:31:47 INFO  ApacheHttpClient.sendEvent(518) - responseCode = 200
+2019-04-29 09:32:47 INFO  ApacheHttpClient.sendEvent(518) - responseCode = 200
+2019-04-29 09:33:47 INFO  ApacheHttpClient.sendEvent(518) - responseCode = 200
+2019-04-29 09:34:47 INFO  ApacheHttpClient.sendEvent(518) - responseCode = 200
+2019-04-29 09:35:47 INFO  ApacheHttpClient.sendEvent(518) - responseCode = 200
+2019-04-29 09:35:51 INFO  ApacheHttpClient.testConnection(193) - responseCode = 200
+2019-04-29 09:35:51 INFO  ApacheHttpClient.testConnection(208) - result = true
+2019-04-29 09:35:53 INFO  PluginTasksProjectComponent.projectClosing(188) - ---------- Project closed ----------
+
+2019-04-29 09:35:54 INFO  ApacheHttpClient.getTask(471) - responseCode = 200
